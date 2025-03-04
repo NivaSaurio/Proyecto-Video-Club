@@ -1,0 +1,7 @@
+0005:Black Myth Wukong:2024:150:Nose:Aventura
+0006:La princesa Mononoke:1997:132:Ghibli:Aventura
+0007:Unas Risas Locas:1987:60:Gracioso McRisas:Comedia
+0008:Desmadre de padre:2012:90:NoLo Sé:Comedia
+0009:Pacific Rim:2014:100:Batman Jaaj:Ciencia Ficción
+0010:Billie Eilish:2020:260:TeQuiero Billie:Fantasía
+0011:fefe:1456:130:ggg:Catástrofe

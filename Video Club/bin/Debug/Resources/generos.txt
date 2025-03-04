@@ -1,0 +1,10 @@
+0002:Ciencia Ficción:cccccc:ffffff:2345:300
+0003:Drama:Película Dos:Pablo Escobar:4321:120
+0004:Comedia:Pelicula Tres:Director Randomm:1998:220
+0005:Aventura:Black Myth Wukong:Nose:2024:150
+0006:Aventura:La princesa Mononoke:Ghibli:1997:132
+0007:Comedia:Unas Risas Locas:Gracioso McRisas:1987:60
+0008:Comedia:Desmadre de padre:NoLo Sé:2012:90
+0009:Ciencia Ficción:Pacific Rim:Batman Jaaj:2014:100
+0010:Fantasía:Billie Eilish:TeQuiero Billie:2020:260
+0011:Catástrofe:fefe:ggg:1456:130

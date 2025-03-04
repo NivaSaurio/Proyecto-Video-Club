@@ -1,0 +1,29 @@
+C:\Users\Andres\source\repos\Video Club\Video Club\bin\Debug\Video Club.exe
+C:\Users\Andres\source\repos\Video Club\Video Club\bin\Debug\Video Club.exe.config
+C:\Users\Andres\source\repos\Video Club\Video Club\obj\Debug\Video Club.vbproj.AssemblyReference.cache
+C:\Users\Andres\source\repos\Video Club\Video Club\obj\Debug\Video_Club.Form1.resources
+C:\Users\Andres\source\repos\Video Club\Video Club\obj\Debug\Video_Club.Gestion.resources
+C:\Users\Andres\source\repos\Video Club\Video Club\obj\Debug\Video_Club.Resources.resources
+C:\Users\Andres\source\repos\Video Club\Video Club\obj\Debug\Video Club.vbproj.GenerateResource.cache
+C:\Users\Andres\source\repos\Video Club\Video Club\obj\Debug\Video Club.vbproj.CoreCompileInputs.cache
+C:\Users\Andres\source\repos\Video Club\Video Club\obj\Debug\Video Club.exe
+C:\Users\Andres\source\repos\Video Club\Video Club\obj\Debug\Video Club.xml
+C:\Users\Andres\source\repos\Video Club\Video Club\obj\Debug\Video Club.pdb
+C:\Users\Andres\source\repos\Video Club\Video Club\bin\Debug\Video Club.pdb
+C:\Users\Andres\source\repos\Video Club\Video Club\bin\Debug\Video Club.xml
+C:\Users\Andres\source\repos\Video Club\Video Club\obj\Debug\Video_Club.Listado.resources
+C:\Users\Andres\source\repos\Video Club\Video Club\obj\Debug\Video_Club.Inicio.resources
+C:\Users\Andres\source\repos\Video Club\Video Club\bin\Debug\EntityFramework.dll
+C:\Users\Andres\source\repos\Video Club\Video Club\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Andres\source\repos\Video Club\Video Club\bin\Debug\System.Data.SQLite.dll
+C:\Users\Andres\source\repos\Video Club\Video Club\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Andres\source\repos\Video Club\Video Club\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Andres\source\repos\Video Club\Video Club\bin\Debug\EntityFramework.xml
+C:\Users\Andres\source\repos\Video Club\Video Club\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Andres\source\repos\Video Club\Video Club\bin\Debug\System.Data.SQLite.xml
+C:\Users\Andres\source\repos\Video Club\Video Club\obj\Debug\Video Club.vbproj.Up2Date
+C:\Users\Andres\source\repos\Video Club\Video Club\obj\Debug\Video_Club.GestionSocios.resources
+C:\Users\Andres\source\repos\Video Club\Video Club\obj\Debug\Video_Club.ListadoSocios.resources
+C:\Users\Andres\source\repos\Video Club\Video Club\obj\Debug\Video_Club.GestionAlquileres.resources
+C:\Users\Andres\source\repos\Video Club\Video Club\obj\Debug\Video_Club.ListadoAlquileres.resources
+C:\Users\Andres\source\repos\Video Club\Video Club\obj\Debug\Video_Club.GestionDevAlquiler.resources
