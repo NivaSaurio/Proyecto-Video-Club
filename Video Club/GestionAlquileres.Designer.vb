@@ -28,7 +28,6 @@ Partial Class GestionAlquileres
         Me.GdevToolStripMenuItem = New System.Windows.Forms.ToolStripMenuItem()
         Me.ListadoToolStripMenuItem = New System.Windows.Forms.ToolStripMenuItem()
         Me.SalirToolStripMenuItem = New System.Windows.Forms.ToolStripMenuItem()
-        Me.AyudaToolStripMenuItem = New System.Windows.Forms.ToolStripMenuItem()
         Me.InformacionToolStripMenuItem = New System.Windows.Forms.ToolStripMenuItem()
         Me.GestionDeVideoClubV09ToolStripMenuItem = New System.Windows.Forms.ToolStripMenuItem()
         Me.btnListado = New System.Windows.Forms.Button()
@@ -50,7 +49,7 @@ Partial Class GestionAlquileres
         'msGestion
         '
         Me.msGestion.BackColor = System.Drawing.Color.Transparent
-        Me.msGestion.Items.AddRange(New System.Windows.Forms.ToolStripItem() {Me.MenuToolStripMenuItem, Me.AyudaToolStripMenuItem, Me.InformacionToolStripMenuItem})
+        Me.msGestion.Items.AddRange(New System.Windows.Forms.ToolStripItem() {Me.MenuToolStripMenuItem, Me.InformacionToolStripMenuItem})
         Me.msGestion.Location = New System.Drawing.Point(0, 0)
         Me.msGestion.Name = "msGestion"
         Me.msGestion.Size = New System.Drawing.Size(1104, 24)
@@ -81,12 +80,6 @@ Partial Class GestionAlquileres
         Me.SalirToolStripMenuItem.Name = "SalirToolStripMenuItem"
         Me.SalirToolStripMenuItem.Size = New System.Drawing.Size(180, 22)
         Me.SalirToolStripMenuItem.Text = "Salir"
-        '
-        'AyudaToolStripMenuItem
-        '
-        Me.AyudaToolStripMenuItem.Name = "AyudaToolStripMenuItem"
-        Me.AyudaToolStripMenuItem.Size = New System.Drawing.Size(53, 20)
-        Me.AyudaToolStripMenuItem.Text = "Ayuda"
         '
         'InformacionToolStripMenuItem
         '
@@ -248,7 +241,7 @@ Partial Class GestionAlquileres
         Me.Icon = CType(resources.GetObject("$this.Icon"), System.Drawing.Icon)
         Me.MaximizeBox = False
         Me.Name = "GestionAlquileres"
-        Me.Text = "GestionAlquileres"
+        Me.Text = "Gestion de alquileres"
         Me.msGestion.ResumeLayout(False)
         Me.msGestion.PerformLayout()
         Me.ResumeLayout(False)
@@ -261,7 +254,6 @@ Partial Class GestionAlquileres
     Friend WithEvents GdevToolStripMenuItem As ToolStripMenuItem
     Friend WithEvents ListadoToolStripMenuItem As ToolStripMenuItem
     Friend WithEvents SalirToolStripMenuItem As ToolStripMenuItem
-    Friend WithEvents AyudaToolStripMenuItem As ToolStripMenuItem
     Friend WithEvents InformacionToolStripMenuItem As ToolStripMenuItem
     Friend WithEvents GestionDeVideoClubV09ToolStripMenuItem As ToolStripMenuItem
     Friend WithEvents btnListado As Button

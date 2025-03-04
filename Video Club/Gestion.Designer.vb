@@ -46,7 +46,6 @@ Partial Class Gestion
         Me.EditarToolStripMenuItem = New System.Windows.Forms.ToolStripMenuItem()
         Me.EliminarToolStripMenuItem = New System.Windows.Forms.ToolStripMenuItem()
         Me.SalirToolStripMenuItem = New System.Windows.Forms.ToolStripMenuItem()
-        Me.AyudaToolStripMenuItem = New System.Windows.Forms.ToolStripMenuItem()
         Me.InformacionToolStripMenuItem = New System.Windows.Forms.ToolStripMenuItem()
         Me.GestionDeVideoClubV09ToolStripMenuItem = New System.Windows.Forms.ToolStripMenuItem()
         Me.lblSinopsis = New System.Windows.Forms.Label()
@@ -217,7 +216,7 @@ Partial Class Gestion
         'msGestion
         '
         Me.msGestion.BackColor = System.Drawing.Color.Transparent
-        Me.msGestion.Items.AddRange(New System.Windows.Forms.ToolStripItem() {Me.MenuToolStripMenuItem, Me.AyudaToolStripMenuItem, Me.InformacionToolStripMenuItem})
+        Me.msGestion.Items.AddRange(New System.Windows.Forms.ToolStripItem() {Me.MenuToolStripMenuItem, Me.InformacionToolStripMenuItem})
         Me.msGestion.Location = New System.Drawing.Point(0, 0)
         Me.msGestion.Name = "msGestion"
         Me.msGestion.Size = New System.Drawing.Size(1104, 24)
@@ -254,12 +253,6 @@ Partial Class Gestion
         Me.SalirToolStripMenuItem.Name = "SalirToolStripMenuItem"
         Me.SalirToolStripMenuItem.Size = New System.Drawing.Size(117, 22)
         Me.SalirToolStripMenuItem.Text = "Salir"
-        '
-        'AyudaToolStripMenuItem
-        '
-        Me.AyudaToolStripMenuItem.Name = "AyudaToolStripMenuItem"
-        Me.AyudaToolStripMenuItem.Size = New System.Drawing.Size(53, 20)
-        Me.AyudaToolStripMenuItem.Text = "Ayuda"
         '
         'InformacionToolStripMenuItem
         '
@@ -368,7 +361,6 @@ Partial Class Gestion
     Friend WithEvents SalirToolStripMenuItem As ToolStripMenuItem
     Friend WithEvents InformacionToolStripMenuItem As ToolStripMenuItem
     Friend WithEvents GestionDeVideoClubV09ToolStripMenuItem As ToolStripMenuItem
-    Friend WithEvents AyudaToolStripMenuItem As ToolStripMenuItem
     Friend WithEvents lblSinopsis As Label
     Friend WithEvents tbSinopsis As TextBox
     Friend WithEvents btnVolver As Button
